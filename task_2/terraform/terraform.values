@@ -1,0 +1,5 @@
+instance_ami = "ami-035925861276f71c8"
+instance_type = "t2.nano"
+"min_cluster_size" = "1"
+"max_cluster_size" = "3"
+"des_cluster_size" = "2"
